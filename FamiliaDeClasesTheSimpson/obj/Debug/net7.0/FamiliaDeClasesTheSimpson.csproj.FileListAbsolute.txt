@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\FamiliaDeClasesTheSimpson.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\FamiliaDeClasesTheSimpson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\FamiliaDeClasesTheSimpson.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\FamiliaDeClasesTheSimpson.AssemblyInfo.cs
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\FamiliaDeClasesTheSimpson.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\bin\Debug\net7.0\FamiliaDeClasesTheSimpson.exe
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\bin\Debug\net7.0\FamiliaDeClasesTheSimpson.deps.json
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\bin\Debug\net7.0\FamiliaDeClasesTheSimpson.runtimeconfig.json
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\bin\Debug\net7.0\FamiliaDeClasesTheSimpson.dll
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\bin\Debug\net7.0\FamiliaDeClasesTheSimpson.pdb
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\FamiliaDeClasesTheSimpson.dll
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\refint\FamiliaDeClasesTheSimpson.dll
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\FamiliaDeClasesTheSimpson.pdb
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\FamiliaDeClasesTheSimpson.genruntimeconfig.cache
+C:\Users\master\source\repos\FamiliaDeClasesTheSimpson\FamiliaDeClasesTheSimpson\obj\Debug\net7.0\ref\FamiliaDeClasesTheSimpson.dll
